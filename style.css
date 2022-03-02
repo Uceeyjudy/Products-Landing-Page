@@ -230,7 +230,7 @@ nav > ul {
   justify-content: center;
 }
 
-.product {
+.products {
   display: flex;
   flex-direction: column;
   align-items: center;
